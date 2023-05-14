@@ -1,0 +1,1 @@
+azure-kusto-ingest==4.0.1
